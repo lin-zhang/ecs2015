@@ -14,7 +14,7 @@ The (adopted) third party libraries used in the project:
 
 [4] [Motor Shield](http://playground.arduino.cc/Main/AdafruitMotorShield)
 
-([1]-[3] are in repo directory; some functions in hw_functions.cpp are adopted from [4].)
+[1]-[3] are in directory repos/libraries; some functions in hw_functions.cpp are adopted from [4].
 
 ###To compile the project:
 
