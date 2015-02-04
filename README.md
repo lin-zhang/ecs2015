@@ -12,6 +12,8 @@ The third party libraries used in the project:
 
 3. [LiquidCrystal_I2C](http://playground.arduino.cc/Code/LCDi2c)
 
+4. [Motor Shield](http://playground.arduino.cc/Main/AdafruitMotorShield)
+
 To compile the project:
 
 ####Install arduino
