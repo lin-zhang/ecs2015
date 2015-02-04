@@ -4,15 +4,16 @@ The Arduino Makefile is from Sudar's project, check on GitHub for details:
 
 [Arduino-Makefile](https://github.com/sudar/Arduino-Makefile.git)
 
-The third party libraries used in the project:
+The (adopted) third party libraries used in the project:
+([1]-[3] are in repo directory; some functions in hw_functions.cpp are adopted from [4].
 
-1. [MsTimer2](http://playground.arduino.cc/Main/MsTimer2)
+[1] [MsTimer2](http://playground.arduino.cc/Main/MsTimer2)
 
-2. [PID_v1](http://playground.arduino.cc/Code/PIDLibrary)
+[2]  [PID_v1](http://playground.arduino.cc/Code/PIDLibrary)
 
-3. [LiquidCrystal_I2C](http://playground.arduino.cc/Code/LCDi2c)
+[3] [LiquidCrystal_I2C](https://github.com/marcmerlin/NewLiquidCrystal.git)
 
-4. [Motor Shield](http://playground.arduino.cc/Main/AdafruitMotorShield)
+[4] [Motor Shield](http://playground.arduino.cc/Main/AdafruitMotorShield)
 
 To compile the project:
 
