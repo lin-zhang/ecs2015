@@ -2,7 +2,6 @@
 LiquidCrystal_I2C
 last updated on 21/12/2011
 Tim Starling Fix the reset bug (Thanks Tim)
-www.yfrobot.com
 **********************************************/
 
 
