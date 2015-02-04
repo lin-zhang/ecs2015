@@ -4,7 +4,7 @@ The Arduino Makefile is from Sudar's project, check on GitHub for details:
 
 [Arduino-Makefile](https://github.com/sudar/Arduino-Makefile.git)
 
-The (adopted) third party libraries used in the project:
+The (adapted) third party libraries used in the project:
 
 [1] [MsTimer2](http://playground.arduino.cc/Main/MsTimer2)
 
@@ -14,7 +14,7 @@ The (adopted) third party libraries used in the project:
 
 [4] [Motor Shield](http://playground.arduino.cc/Main/AdafruitMotorShield)
 
-[1]-[3] are in directory repos/libraries; some functions in hw_functions.cpp are adopted from [4].
+[1]-[3] are in directory repos/libraries; some functions in hw_functions.cpp are adapted from [4].
 
 ###To compile the project:
 
